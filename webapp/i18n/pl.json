@@ -5,7 +5,7 @@
   "BoardComponent.hide": "Ukryj",
   "BoardComponent.new": "+ Nowy",
   "BoardComponent.no-property": "Nie {właściwość}",
-  "BoardComponent.no-property-title": "Elementy z pustą właściwością {właściwość} trafią tutaj. Tej kolumny nie można usunąć.",
+  "BoardComponent.no-property-title": "Elementy z pustą właściwością {property} trafią tutaj. Tej kolumny nie można usunąć.",
   "BoardComponent.show": "Pokaż",
   "BoardPage.newVersion": "Nowa wersja tablic jest dostępna, kliknij tutaj, aby przeładować.",
   "BoardPage.syncFailed": "Tablica może zostać usunięta lub dostęp do niej cofnięty.",
